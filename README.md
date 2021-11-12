@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Naveenzerobugz
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Node,Python
+- 🌱 I’m currently learning Node,React,Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me naveensoftdev@gmail.com
 
